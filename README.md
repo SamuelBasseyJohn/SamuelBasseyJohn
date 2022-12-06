@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/samijasy" target="blank"><img src="https://img.shields.io/twitter/follow/samijasy?logo=twitter&style=for-the-badge" alt="czarify" /></a> </p>
 
-- 🔭 I always work hard to make your life**easy**
+- 🔭 I always work hard to make your life **easy**
 
 - 🌱 Others’ dream is our **hard work**
 
