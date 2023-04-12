@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
-<h3 align="center">A Flutter Developer </h3>
+<h3 align="center">A Mobile Developer</h3>
 <h5 align="center">Play around the massive list of repositories... I created them for you</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SamuelBasseyJohn&label=Profile%20views&color=0e75b6&style=flat" alt="Samuel Bassey"/> </p>
