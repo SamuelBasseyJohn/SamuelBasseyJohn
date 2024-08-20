@@ -13,7 +13,7 @@
 
 - 👯 It's not a bug **It's a feature**
 
-- 💬 Ask me about **Flutter, Kotlin and Java**
+- 💬 Ask me about **Flutter, Kotlin and Jetpack Compose**
 
 - 📫 Code, Coffee, **Code.**
 
